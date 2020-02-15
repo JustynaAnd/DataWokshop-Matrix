@@ -1,2 +1,2 @@
 # DataWokshop-Matrix
-ML projects coded during Matrix by DataWorkshop
+ML projects coded during Matrix Transformation (first part of the project) by DataWorkshop.
